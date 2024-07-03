@@ -1,7 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Gabriele!
+
+👩🏻‍💻 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
+
+⌨️Programing Languages: C, Phyton, Java
+
+📧Contact: carvalhodegabriele@gmail.com
+
 
 <!--
-**gabrieledecarvalho/gabrieledecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oakgabi/oakgabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
