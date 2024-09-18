@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
 
-⌨️ Programing Languages: C, Phyton, Java
+⌨️ Programing Languages: Java, C, Phyton
 
 📧 Contact: carvalhodegabriele@gmail.com
 
