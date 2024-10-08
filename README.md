@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
 
-📧 Contact: carvalhodegabriele@gmail.com
+<!--📧 Contact: carvalhodegabriele@gmail.com-->
 
 [![Top Langs](https://github-readme-stats-sand-delta.vercel.app/api/top-langs/?username=gabrieledecarvalho&layout=compact)](https://github.com/gabrieledecarvalho/github-readme-stats)
 <!--
