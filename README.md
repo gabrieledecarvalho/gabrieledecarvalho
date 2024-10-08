@@ -3,7 +3,7 @@
 👩🏻‍💻 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
 
 ⌨️ Programing Languages: Java, C, Phyton
-[![Top Langs](https://github-readme-stats-opal-zeta-13.vercel.app/api/top-langs/?username=gabrieledecarvalho&langs_count=8)](https://github.com/gabrieledecarvalho/github-readme-stats)
+[![Top Langs](github-readme-stats-sand-delta.vercel.app/api/top-langs/?username=gabrieledecarvalho&langs_count=8)](https://github.com/gabrieledecarvalho/github-readme-stats)
 
 📧 Contact: carvalhodegabriele@gmail.com
 
