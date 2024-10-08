@@ -4,8 +4,7 @@
 
 📧 Contact: carvalhodegabriele@gmail.com
 
-<br>
-[![Top Langs](https://github-readme-stats-sand-delta.vercel.app/api/top-langs/?username=gabrieledecarvalho&langs_count=8)](https://github.com/gabrieledecarvalho/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sand-delta.vercel.app/api/top-langs/?username=gabrieledecarvalho&layout=compact)](https://github.com/gabrieledecarvalho/github-readme-stats)
 <!--
 **oakgabi/oakgabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
