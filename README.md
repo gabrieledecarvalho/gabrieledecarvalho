@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Gabriele!
 
-👩🏻‍💻 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
+👩🏻‍💻 Back-end dev for BMW at [Zallpy Digital](https://zallpy.com/en)
+
+👨‍🎓 Student at [IFSC](https://www.ifsc.edu.br/en/about-ifsc)
 
 <!--📧 Contact: carvalhodegabriele@gmail.com-->
 
@@ -10,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
